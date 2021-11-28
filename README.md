@@ -7,7 +7,11 @@ Contents:
       Implementation of Huffman Coding Tree
       
 - LinkedList.cpp
-  Implementation of Doubly Linked List
+      Implementation of Doubly Linked List
   
 - Trie.cpp
-  Implementation of Trie Data Structure for string searching
+      Implementation of Trie Data Structure for string searching
+
+- bloomfilter.cpp + bloomfilter.h
+      Implementation of bloomfilters
+      
